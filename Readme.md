@@ -10,3 +10,6 @@
 ## Input
 
 String str = sc.nextLine();
+
+## Output
+System.out.print (str);
